@@ -31,7 +31,7 @@ row.names(dens) <- LETTERS[1:4]
 dens
 ```
 
-Generamos un plot para ver cuanto se parece cada sitio (Figura 1)
+Generamos un plot para ver cuanto se parece cada sitio (Figura 1) VEamos que se puede hacewr
 
 ```{r, fig.margin = TRUE, fig.cap = "Distancias de cuatro localidades hipotéticas",  fig.height=3, fig.width=3}
 
